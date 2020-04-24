@@ -1,16 +1,17 @@
-##About me 
-Hi i am Anshul ghanshala
-This is my first experiencing of publishing md file in **Github**
-I am interested in the following:
-- *Machine learning*
-- *Neural Networks*
-I have prepared the following to do list:
--[] Exam on 13th
--[] Exam on 19th
+## About me
 
-|Name|Age|
+Hi! My name is Anshul Ghanshala.
+This is my first experience of publishing a markdown file in **Github**. 
+I am *interested* in the following:
+  - Machine learning
+  - Neural Networks
+  
+I have prepared the following check list for imp dates:
+ - [ ] Exam on 13th may
+ - [ ] Exam on 19th may
+
+Personal particulars:
+
+|~~ Name | Age |
 |--|--|
-|Anshul|19|
-
-
-
+| Anshul |19  |
