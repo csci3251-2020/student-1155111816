@@ -15,3 +15,6 @@ Personal particulars:
 |~~ Name | Age |
 |--|--|
 | Anshul |19  |
+
+Image
+![Screenshot](milestone2.png)
